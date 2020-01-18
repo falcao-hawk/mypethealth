@@ -2,6 +2,26 @@
 App para controle de vacinas de animais de estimação. App to control vacine of pet
 
 The application must evolve in 4 distinct phases.
+
+## Phase 1
+
+
+
+## Phase 2
+
+
+
+## Phase 3
+
+
+
+## Phase 4
+
+
+
+
+
+
 In the first phase, the application base will be created, with the minimum necessary for its main functionality.
 
 From the second phase, new features will be incorporated, evolving the main project.
