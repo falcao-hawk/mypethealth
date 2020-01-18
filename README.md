@@ -9,6 +9,7 @@ From the second phase, new features will be incorporated, evolving the main proj
 Questions about the beginning of this project:
 
 1- which database to use (Firebase, MySQL, Postgre).
+
 2- which language and framework to use (Kotlin, React Native, Flutter).
 
 Initial development environment:
