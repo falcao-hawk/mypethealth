@@ -15,6 +15,7 @@ The application must evolve in 4 distinct phases.
 
 ## Phase 3
 
+![App-MyPetHealth - fase 3](https://user-images.githubusercontent.com/51682399/72658431-98823c80-398f-11ea-820f-2b2bb143c57b.jpeg)
 
 
 ## Phase 4
